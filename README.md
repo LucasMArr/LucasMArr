@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🧝‍♂️ Olá! bem vindo, bem vinda a minha jornada para me tornar um jedi dos dados
+
 
 <!--
 **LucasMArr/LucasMArr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
